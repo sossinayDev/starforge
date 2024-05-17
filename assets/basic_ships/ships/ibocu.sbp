@@ -6,6 +6,11 @@
     "v+": 10
   }
 
+  "comps_used":[
+    "ynnok",
+    "oppis"
+  ]
+
   "components":[
     {
       "item": "ynnok",
