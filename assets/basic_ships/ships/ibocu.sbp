@@ -1,0 +1,21 @@
+{
+  "name": "Ibocu",
+  "stats":{
+    "vMax": 750,
+    "vWarpLY": 4,
+    "v+": 10
+  }
+
+  "components":[
+    {
+      "item": "ynnok",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "item": "oppis",
+      "x": 15,
+      "y": 0
+    }
+  ]
+}
