@@ -1,1 +1,1 @@
-{"name":"Ibocu","stats":{"vMax":750,"vWarpLY":4,"v+":10},"comps_used":["ynnok","oppis"],"components":[{"item":"ynnok","x":0,"y":0},{"item":"oppis","x":15,"y":0}]}
+{"name":"Ibocu","stats":{"vMax":750,"vWarpLY":4,"v+":10},"comps_used":["ynnok","oppis"],"components":[{"item":"ynnok","x":0,"y":0},{"item":"oppis","x":15,"y":-6}]}
