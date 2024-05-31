@@ -1,7 +1,0 @@
-{
-  "name": "Xatoja",
-  "type": "Planet",
-  "Description": "Xatoja is home to the biggest city in the galaxy",
-  "approach_rules": true,
-  "texture": "assets/planets/xatoja.png"
-}
