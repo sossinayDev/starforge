@@ -1,7 +1,7 @@
 from PIL import Image, ImageSequence
 import os
 
-planet_name = "Zee"
+planet_names = ["Bepla", "Righi", "Tarp", "Vorad"]
 planet_district = "Galaxentre"
 planet_system = "Byish"
 
@@ -36,6 +36,7 @@ def extract_frames(gif_path, output_dir):
             frame_number += 1
 
 if __name__ == "__main__":
-    gif_path = "universe/"+planet_district+"/"+planet_system+"/"+planet_name+"/"+planet_name+".gif"
-    output_dir = "universe/"+planet_district+"/"+planet_system
-    extract_frames(gif_path, output_dir)
+    for planet_name in planet_names:
+        gif_path = "universe/"+planet_district+"/"+planet_system+"/"+planet_name+"/"+planet_name+".gif"
+        output_dir = "universe/"+planet_district+"/"+planet_system
+        extract_frames(gif_path, output_dir)
