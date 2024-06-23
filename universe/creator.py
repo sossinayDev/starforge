@@ -1,7 +1,7 @@
 from PIL import Image, ImageSequence
 import os
 
-planet_names = ["Byish"]
+planet_names = ["Oerpa"]
 planet_district = "Galaxentre"
 planet_system = "Byish"
 
