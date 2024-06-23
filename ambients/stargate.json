@@ -1,3 +1,4 @@
 {
-    "restart-after": 40
+    "restart-after": 40,
+    "exists": true
 }
