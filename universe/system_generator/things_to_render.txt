@@ -1,0 +1,324 @@
+{"url": "universe/Testing/Fyav/Niidll", "name": "Niidll", "env": "Lava"}
+{"url": "universe/Testing/Fyav/Fyav", "name": "Fyav", "env": "star"}
+{"url": "universe/Testing/Fyav/Niroyisw", "name": "Niroyisw", "env": "No atmosphere"}
+{"url": "universe/Testing/Fyav/Oepaver", "name": "Oepaver", "env": "Wet"}
+{"url": "universe/Testing/Fyav/Juyi", "name": "Juyi", "env": "Wet"}
+{"url": "universe/Testing/Fyav/Dcnavoero", "name": "Dcnavoero", "env": "Islands"}
+{"url": "universe/Testing/Fyav/Aoyi", "name": "Aoyi", "env": "Islands"}
+{"url": "universe/Testing/Fyav/Grrg", "name": "Grrg", "env": "Ocean"}
+{"url": "universe/Testing/Fyav/Aarshhe", "name": "Aarshhe", "env": "Dry"}
+{"url": "universe/Testing/Fyav/Xkkeprsw", "name": "Xkkeprsw", "env": "Dry"}
+{"url": "universe/Testing/Fyav/Xeero", "name": "Xeero", "env": "No atmosphere"}
+{"url": "universe/Testing/Fyav/Jtpl", "name": "Jtpl", "env": "Ice"}
+{"url": "universe/Testing/Fyav/Jey", "name": "Jey", "env": "Ice"}
+{"url": "universe/Testing/Fyav/Wte", "name": "Wte", "env": "Gas & rings"}
+{"url": "universe/Testing/Fyav/Oog", "name": "Oog", "env": "Gas"}
+{"url": "universe/Testing/Fyav/Sr", "name": "Sr", "env": "Ice"}
+{"url": "universe/Testing/Fyav/Rhep", "name": "Rhep", "env": "Gas"}
+{"url": "universe/Testing/Fyav/Wtadoup", "name": "Wtadoup", "env": "Gas"}
+{"url": "universe/Testing/Vnsst/Vnsst", "name": "Vnsst", "env": "star"}
+{"url": "universe/Testing/Vnsst/Vsrb", "name": "Vsrb", "env": "Lava"}
+{"url": "universe/Testing/Vnsst/Whtoe", "name": "Whtoe", "env": "Lava"}
+{"url": "universe/Testing/Vnsst/Rrav", "name": "Rrav", "env": "Lava"}
+{"url": "universe/Testing/Vnsst/Uurs", "name": "Uurs", "env": "Ice"}
+{"url": "universe/Testing/Vnsst/Pbupa", "name": "Pbupa", "env": "No atmosphere"}
+{"url": "universe/Testing/Vnsst/Gyuerser", "name": "Gyuerser", "env": "Ice"}
+{"url": "universe/Testing/Vnsst/Nohis", "name": "Nohis", "env": "Ice"}
+{"url": "universe/Testing/Vnsst/Rysthe", "name": "Rysthe", "env": "Gas & rings"}
+{"url": "universe/Testing/Vnsst/Gahid", "name": "Gahid", "env": "Gas"}
+{"url": "universe/Testing/Vnsst/Weero", "name": "Weero", "env": "Gas"}
+{"url": "universe/Testing/Vnsst/Waicor", "name": "Waicor", "env": "Gas"}
+{"url": "universe/Testing/Vnsst/Cvvya", "name": "Cvvya", "env": "Ice"}
+{"url": "universe/Testing/Vnsst/Ver", "name": "Ver", "env": "Gas"}
+{"url": "universe/Testing/Vnsst/Eog", "name": "Eog", "env": "Dry"}
+{"url": "universe/Testing/Vnsst/Ksrgic", "name": "Ksrgic", "env": "Gas"}
+{"url": "universe/Testing/Vnsst/Hrr", "name": "Hrr", "env": "Ice"}
+{"url": "universe/Testing/Vnsst/Ryy", "name": "Ryy", "env": "Gas"}
+{"url": "universe/Testing/Vnsst/Qet", "name": "Qet", "env": "Ice"}
+{"url": "universe/Testing/Vnsst/Rhesh", "name": "Rhesh", "env": "Gas"}
+{"url": "universe/Testing/Vnsst/Rrgi", "name": "Rrgi", "env": "Gas"}
+{"url": "universe/Testing/Vnsst/Npse", "name": "Npse", "env": "Gas"}
+{"url": "universe/Testing/Vnsst/Xahtoue", "name": "Xahtoue", "env": "Gas & rings"}
+{"url": "universe/Testing/Vnsst/Iasst", "name": "Iasst", "env": "Gas"}
+{"url": "universe/Testing/Vnsst/Eet", "name": "Eet", "env": "Ice"}
+{"url": "universe/Testing/Ewnghtr/Ewnghtr I", "name": "Ewnghtr I", "env": "star"}
+{"url": "universe/Testing/Ewnghtr/Ewnghtr II", "name": "Ewnghtr II", "env": "star"}
+{"url": "universe/Testing/Ewnghtr/Brthi", "name": "Brthi", "env": "Lava"}
+{"url": "universe/Testing/Ewnghtr/Xhang", "name": "Xhang", "env": "Lava"}
+{"url": "universe/Testing/Ewnghtr/Nra", "name": "Nra", "env": "Dry"}
+{"url": "universe/Testing/Ewnghtr/Ssp", "name": "Ssp", "env": "No atmosphere"}
+{"url": "universe/Testing/Ewnghtr/Uneena", "name": "Uneena", "env": "Ocean"}
+{"url": "universe/Testing/Ewnghtr/Bidee", "name": "Bidee", "env": "Wet"}
+{"url": "universe/Testing/Ewnghtr/Jpeen", "name": "Jpeen", "env": "Wet"}
+{"url": "universe/Testing/Ewnghtr/Ioanvo", "name": "Ioanvo", "env": "Gas"}
+{"url": "universe/Testing/Ewnghtr/Hsckse", "name": "Hsckse", "env": "No atmosphere"}
+{"url": "universe/Testing/Ewnghtr/Oeent", "name": "Oeent", "env": "Ice"}
+{"url": "universe/Testing/Ewnghtr/Mrrpue", "name": "Mrrpue", "env": "Gas & rings"}
+{"url": "universe/Testing/Ewnghtr/Jeenp", "name": "Jeenp", "env": "Gas"}
+{"url": "universe/Testing/Ewnghtr/Xepn", "name": "Xepn", "env": "Gas & rings"}
+{"url": "universe/Testing/Ewnghtr/Dprsee", "name": "Dprsee", "env": "No atmosphere"}
+{"url": "universe/Testing/Ewnghtr/Gpnag", "name": "Gpnag", "env": "No atmosphere"}
+{"url": "universe/Testing/Ewnghtr/Lvnt", "name": "Lvnt", "env": "Gas"}
+{"url": "universe/Testing/Ewnghtr/Juu", "name": "Juu", "env": "Dry"}
+{"url": "universe/Testing/Ewnghtr/Pddic", "name": "Pddic", "env": "Ice"}
+{"url": "universe/Testing/Ewnghtr/Uspa", "name": "Uspa", "env": "Gas & rings"}
+{"url": "universe/Testing/Ewnghtr/Lees", "name": "Lees", "env": "Ice"}
+{"url": "universe/Testing/Ewnghtr/Nree", "name": "Nree", "env": "Gas"}
+{"url": "universe/Testing/Nooeroyi/Nooeroyi", "name": "Nooeroyi", "env": "star"}
+{"url": "universe/Testing/Nooeroyi/Feat", "name": "Feat", "env": "Lava"}
+{"url": "universe/Testing/Nooeroyi/Bnro", "name": "Bnro", "env": "No atmosphere"}
+{"url": "universe/Testing/Nooeroyi/Yddss", "name": "Yddss", "env": "Lava"}
+{"url": "universe/Testing/Nooeroyi/Bporsh", "name": "Bporsh", "env": "Lava"}
+{"url": "universe/Testing/Nooeroyi/Frup", "name": "Frup", "env": "Wet"}
+{"url": "universe/Testing/Nooeroyi/Uirb", "name": "Uirb", "env": "Dry"}
+{"url": "universe/Testing/Nooeroyi/Bndss", "name": "Bndss", "env": "No atmosphere"}
+{"url": "universe/Testing/Nooeroyi/Oaatoa", "name": "Oaatoa", "env": "Dry"}
+{"url": "universe/Testing/Nooeroyi/Deeroy", "name": "Deeroy", "env": "Gas"}
+{"url": "universe/Testing/Nooeroyi/Lpp", "name": "Lpp", "env": "Ice"}
+{"url": "universe/Testing/Nooeroyi/Vnner", "name": "Vnner", "env": "Ice"}
+{"url": "universe/Testing/Nooeroyi/Wshero", "name": "Wshero", "env": "Gas"}
+{"url": "universe/Testing/Jergikav/Jergikav", "name": "Jergikav", "env": "star"}
+{"url": "universe/Testing/Jergikav/Wsnta", "name": "Wsnta", "env": "Lava"}
+{"url": "universe/Testing/Jergikav/Gaave", "name": "Gaave", "env": "No atmosphere"}
+{"url": "universe/Testing/Jergikav/Ospropr", "name": "Ospropr", "env": "Gas"}
+{"url": "universe/Testing/Jergikav/Xhhic", "name": "Xhhic", "env": "Ice"}
+{"url": "universe/Testing/Jergikav/Mvrsshen", "name": "Mvrsshen", "env": "Ice"}
+{"url": "universe/Testing/Jergikav/Tddssh", "name": "Tddssh", "env": "Gas"}
+{"url": "universe/Testing/Jergikav/Kaavic", "name": "Kaavic", "env": "Ice"}
+{"url": "universe/Testing/Jergikav/Noarswha", "name": "Noarswha", "env": "Gas"}
+{"url": "universe/Testing/Jergikav/Seep", "name": "Seep", "env": "Ice"}
+{"url": "universe/Testing/Jergikav/Myuee", "name": "Myuee", "env": "Ice"}
+{"url": "universe/Testing/Jergikav/Uaeeprl", "name": "Uaeeprl", "env": "Dry"}
+{"url": "universe/Testing/Jergikav/Spws", "name": "Spws", "env": "Dry"}
+{"url": "universe/Testing/Jergikav/Ysngor", "name": "Ysngor", "env": "Dry"}
+{"url": "universe/Testing/Jergikav/Zvvid", "name": "Zvvid", "env": "Gas"}
+{"url": "universe/Testing/Jergikav/Nhrs", "name": "Nhrs", "env": "Gas"}
+{"url": "universe/Testing/Jergikav/Oidor", "name": "Oidor", "env": "Gas & rings"}
+{"url": "universe/Testing/Jergikav/Uhid", "name": "Uhid", "env": "Ice"}
+{"url": "universe/Testing/Jergikav/Lptavi", "name": "Lptavi", "env": "Ice"}
+{"url": "universe/Testing/Rrpua/Rrpua", "name": "Rrpua", "env": "star"}
+{"url": "universe/Testing/Rrpua/Nrrssw", "name": "Nrrssw", "env": "Lava"}
+{"url": "universe/Testing/Rrpua/Uuad", "name": "Uuad", "env": "Lava"}
+{"url": "universe/Testing/Rrpua/Lvrp", "name": "Lvrp", "env": "No atmosphere"}
+{"url": "universe/Testing/Rrpua/Ykdo", "name": "Ykdo", "env": "Gas"}
+{"url": "universe/Testing/Rrpua/Ioerbathh", "name": "Ioerbathh", "env": "Ice"}
+{"url": "universe/Testing/Rrpua/Myyan", "name": "Myyan", "env": "Dry"}
+{"url": "universe/Testing/Rrpua/Iol", "name": "Iol", "env": "Dry"}
+{"url": "universe/Testing/Rrpua/Urr", "name": "Urr", "env": "Ice"}
+{"url": "universe/Testing/Rrpua/Raeepld", "name": "Raeepld", "env": "Gas"}
+{"url": "universe/Testing/Rrpua/Ehhar", "name": "Ehhar", "env": "Dry"}
+{"url": "universe/Testing/Rrpua/Bddic", "name": "Bddic", "env": "Gas"}
+{"url": "universe/Testing/Rrpua/Dreo", "name": "Dreo", "env": "Gas & rings"}
+{"url": "universe/Testing/Rrpua/Ossha", "name": "Ossha", "env": "Ice"}
+{"url": "universe/Testing/Rrpua/Vaes", "name": "Vaes", "env": "Gas"}
+{"url": "universe/Testing/Rrpua/Ondo", "name": "Ondo", "env": "Gas"}
+{"url": "universe/Testing/Rrpua/Xahht", "name": "Xahht", "env": "Gas"}
+{"url": "universe/Testing/Rrpua/Dnprs", "name": "Dnprs", "env": "Gas"}
+{"url": "universe/Testing/Rrpua/Iads", "name": "Iads", "env": "Gas"}
+{"url": "universe/Testing/Rrpua/Jpp", "name": "Jpp", "env": "Dry"}
+{"url": "universe/Testing/Rrpua/Wes", "name": "Wes", "env": "Ice"}
+{"url": "universe/Testing/Rrpua/Jyrba", "name": "Jyrba", "env": "Gas"}
+{"url": "universe/Testing/Rrpua/Dluplo", "name": "Dluplo", "env": "Dry"}
+{"url": "universe/Testing/Rrpua/Nrest", "name": "Nrest", "env": "Dry"}
+{"url": "universe/Testing/Rrpua/Ita", "name": "Ita", "env": "Ice"}
+{"url": "universe/Testing/Rrpua/Kges", "name": "Kges", "env": "Ice"}
+{"url": "universe/Testing/Rrpua/Pper", "name": "Pper", "env": "Gas"}
+{"url": "universe/Testing/Rrpua/Eppre", "name": "Eppre", "env": "Gas"}
+{"url": "universe/Testing/Htvepldse/Htvepldse", "name": "Htvepldse", "env": "star"}
+{"url": "universe/Testing/Htvepldse/Lepuergh", "name": "Lepuergh", "env": "Lava"}
+{"url": "universe/Testing/Htvepldse/Xoorswi", "name": "Xoorswi", "env": "Lava"}
+{"url": "universe/Testing/Htvepldse/Krti", "name": "Krti", "env": "Ocean"}
+{"url": "universe/Testing/Htvepldse/Jeengo", "name": "Jeengo", "env": "Gas"}
+{"url": "universe/Testing/Htvepldse/Qppeen", "name": "Qppeen", "env": "Gas"}
+{"url": "universe/Testing/Htvepldse/Iildse", "name": "Iildse", "env": "Dry"}
+{"url": "universe/Testing/Htvepldse/Lrrstr", "name": "Lrrstr", "env": "Gas"}
+{"url": "universe/Testing/Htvepldse/Aeswepu", "name": "Aeswepu", "env": "Gas"}
+{"url": "universe/Testing/Htvepldse/Uurp", "name": "Uurp", "env": "Ice"}
+{"url": "universe/Testing/Htvepldse/Znsep", "name": "Znsep", "env": "Gas"}
+{"url": "universe/Testing/Htvepldse/Iohh", "name": "Iohh", "env": "Gas"}
+{"url": "universe/Testing/Htvepldse/Looyinds", "name": "Looyinds", "env": "Gas"}
+{"url": "universe/Testing/Htvepldse/Zcchh", "name": "Zcchh", "env": "Gas"}
+{"url": "universe/Testing/Htvepldse/Reur", "name": "Reur", "env": "Dry"}
+{"url": "universe/Testing/Htvepldse/Gheswi", "name": "Gheswi", "env": "Ice"}
+{"url": "universe/Testing/Htvepldse/Gbh", "name": "Gbh", "env": "Gas & rings"}
+{"url": "universe/Testing/Htvepldse/Hhtist", "name": "Hhtist", "env": "Ice"}
+{"url": "universe/Testing/Htvepldse/Dpswhi", "name": "Dpswhi", "env": "Gas"}
+{"url": "universe/Testing/Htvepldse/Paldo", "name": "Paldo", "env": "Ice"}
+{"url": "universe/Testing/Htvepldse/Ydne", "name": "Ydne", "env": "Ice"}
+{"url": "universe/Testing/Htvepldse/Rrengis", "name": "Rrengis", "env": "Gas & rings"}
+{"url": "universe/Testing/Meavist/Meavist", "name": "Meavist", "env": "star"}
+{"url": "universe/Testing/Meavist/Ppu", "name": "Ppu", "env": "Lava"}
+{"url": "universe/Testing/Meavist/Menro", "name": "Menro", "env": "Lava"}
+{"url": "universe/Testing/Meavist/Wiepr", "name": "Wiepr", "env": "Dry"}
+{"url": "universe/Testing/Meavist/Etrba", "name": "Etrba", "env": "Ocean"}
+{"url": "universe/Testing/Meavist/Puorb", "name": "Puorb", "env": "Gas"}
+{"url": "universe/Testing/Meavist/Qetro", "name": "Qetro", "env": "Gas"}
+{"url": "universe/Testing/Meavist/Cryands", "name": "Cryands", "env": "Gas"}
+{"url": "universe/Testing/Meavist/Vaeer", "name": "Vaeer", "env": "Ice"}
+{"url": "universe/Testing/Meavist/Qepne", "name": "Qepne", "env": "Gas"}
+{"url": "universe/Testing/Meavist/Kdtr", "name": "Kdtr", "env": "Gas"}
+{"url": "universe/Testing/Meavist/Bgsht", "name": "Bgsht", "env": "Dry"}
+{"url": "universe/Testing/Meavist/Wss", "name": "Wss", "env": "No atmosphere"}
+{"url": "universe/Testing/Meavist/Qtplu", "name": "Qtplu", "env": "Ice"}
+{"url": "universe/Testing/Meavist/Vkdsse", "name": "Vkdsse", "env": "Ice"}
+{"url": "universe/Testing/Meavist/Plaven", "name": "Plaven", "env": "No atmosphere"}
+{"url": "universe/Testing/Meavist/Loids", "name": "Loids", "env": "Dry"}
+{"url": "universe/Testing/Meavist/Gruerb", "name": "Gruerb", "env": "Ice"}
+{"url": "universe/Testing/Meavist/Cnvyic", "name": "Cnvyic", "env": "Gas"}
+{"url": "universe/Testing/Meavist/Nnpa", "name": "Nnpa", "env": "Gas"}
+{"url": "universe/Testing/Meavist/Pss", "name": "Pss", "env": "Ice"}
+{"url": "universe/Testing/Meavist/Ghe", "name": "Ghe", "env": "Dry"}
+{"url": "universe/Testing/Meavist/Qpesr", "name": "Qpesr", "env": "Gas"}
+{"url": "universe/Testing/Meavist/Ikanth", "name": "Ikanth", "env": "Gas"}
+{"url": "universe/Testing/Qees/Qees", "name": "Qees", "env": "star"}
+{"url": "universe/Testing/Qees/Rooepan", "name": "Rooepan", "env": "Lava"}
+{"url": "universe/Testing/Qees/Grut", "name": "Grut", "env": "Lava"}
+{"url": "universe/Testing/Qees/Dyutorst", "name": "Dyutorst", "env": "Ocean"}
+{"url": "universe/Testing/Qees/Ryyingr", "name": "Ryyingr", "env": "No atmosphere"}
+{"url": "universe/Testing/Qees/Jyu", "name": "Jyu", "env": "Ice"}
+{"url": "universe/Testing/Qees/Orps", "name": "Orps", "env": "Gas"}
+{"url": "universe/Testing/Qees/Nroa", "name": "Nroa", "env": "Gas"}
+{"url": "universe/Testing/Qees/Tthar", "name": "Tthar", "env": "No atmosphere"}
+{"url": "universe/Testing/Qees/Bvdo", "name": "Bvdo", "env": "Gas"}
+{"url": "universe/Testing/Qees/Csrgh", "name": "Csrgh", "env": "Ice"}
+{"url": "universe/Testing/Qees/Haavik", "name": "Haavik", "env": "Gas"}
+{"url": "universe/Testing/Qees/Gppla", "name": "Gppla", "env": "Gas"}
+{"url": "universe/Testing/Qees/Vyad", "name": "Vyad", "env": "Dry"}
+{"url": "universe/Testing/Foseerb/Foseerb I", "name": "Foseerb I", "env": "star"}
+{"url": "universe/Testing/Foseerb/Foseerb II", "name": "Foseerb II", "env": "star"}
+{"url": "universe/Testing/Foseerb/Vdsti", "name": "Vdsti", "env": "Lava"}
+{"url": "universe/Testing/Foseerb/Nnshhent", "name": "Nnshhent", "env": "Lava"}
+{"url": "universe/Testing/Foseerb/Krputa", "name": "Krputa", "env": "Islands"}
+{"url": "universe/Testing/Foseerb/Cneatrby", "name": "Cneatrby", "env": "No atmosphere"}
+{"url": "universe/Testing/Foseerb/Jrrsersh", "name": "Jrrsersh", "env": "Gas"}
+{"url": "universe/Testing/Foseerb/Knntrbe", "name": "Knntrbe", "env": "Gas"}
+{"url": "universe/Testing/Foseerb/Puavyi", "name": "Puavyi", "env": "Dry"}
+{"url": "universe/Testing/Foseerb/Vkdo", "name": "Vkdo", "env": "Gas"}
+{"url": "universe/Testing/Foseerb/Wtti", "name": "Wtti", "env": "Gas"}
+{"url": "universe/Testing/Saoyi/Saoyi I", "name": "Saoyi I", "env": "star"}
+{"url": "universe/Testing/Saoyi/Saoyi II", "name": "Saoyi II", "env": "star"}
+{"url": "universe/Testing/Saoyi/Hskther", "name": "Hskther", "env": "Lava"}
+{"url": "universe/Testing/Saoyi/Kedlatin", "name": "Kedlatin", "env": "No atmosphere"}
+{"url": "universe/Testing/Saoyi/Aeik", "name": "Aeik", "env": "Dry"}
+{"url": "universe/Testing/Saoyi/Uapu", "name": "Uapu", "env": "Ice"}
+{"url": "universe/Testing/Saoyi/Waanes", "name": "Waanes", "env": "Gas"}
+{"url": "universe/Testing/Saoyi/Eooyicher", "name": "Eooyicher", "env": "Gas"}
+{"url": "universe/Testing/Saoyi/Hkco", "name": "Hkco", "env": "Ice"}
+{"url": "universe/Testing/Saoyi/Dhwen", "name": "Dhwen", "env": "Dry"}
+{"url": "universe/Testing/Saoyi/Jyrgh", "name": "Jyrgh", "env": "Gas"}
+{"url": "universe/Testing/Saoyi/Pllar", "name": "Pllar", "env": "Gas"}
+{"url": "universe/Testing/Saoyi/Ysou", "name": "Ysou", "env": "Gas"}
+{"url": "universe/Testing/Zdve/Zdve", "name": "Zdve", "env": "star"}
+{"url": "universe/Testing/Zdve/Togerbb", "name": "Togerbb", "env": "Lava"}
+{"url": "universe/Testing/Zdve/Heidse", "name": "Heidse", "env": "Lava"}
+{"url": "universe/Testing/Zdve/Tndeswhic", "name": "Tndeswhic", "env": "Islands"}
+{"url": "universe/Testing/Zdve/Hdves", "name": "Hdves", "env": "Gas"}
+{"url": "universe/Testing/Zdve/Oia", "name": "Oia", "env": "Dry"}
+{"url": "universe/Testing/Zdve/Teide", "name": "Teide", "env": "Ice"}
+{"url": "universe/Testing/Zdve/Tars", "name": "Tars", "env": "Gas"}
+{"url": "universe/Testing/Zdve/Fpplan", "name": "Fpplan", "env": "Gas & rings"}
+{"url": "universe/Testing/Zdve/Vrrpe", "name": "Vrrpe", "env": "Gas & rings"}
+{"url": "universe/Testing/Zdve/Sshi", "name": "Sshi", "env": "Gas"}
+{"url": "universe/Testing/Weent/Weent", "name": "Weent", "env": "star"}
+{"url": "universe/Testing/Weent/Kpe", "name": "Kpe", "env": "Lava"}
+{"url": "universe/Testing/Weent/Uursth", "name": "Uursth", "env": "No atmosphere"}
+{"url": "universe/Testing/Weent/Zrnes", "name": "Zrnes", "env": "Dry"}
+{"url": "universe/Testing/Weent/Yoorpl", "name": "Yoorpl", "env": "Islands"}
+{"url": "universe/Testing/Weent/Vrrbpeep", "name": "Vrrbpeep", "env": "Ice"}
+{"url": "universe/Testing/Weent/Jetoadis", "name": "Jetoadis", "env": "Ice"}
+{"url": "universe/Testing/Weent/Leestike", "name": "Leestike", "env": "Ice"}
+{"url": "universe/Testing/Weent/Sn", "name": "Sn", "env": "Ice"}
+{"url": "universe/Testing/Weent/Ern", "name": "Ern", "env": "Gas"}
+{"url": "universe/Testing/Odishi/Odishi", "name": "Odishi", "env": "star"}
+{"url": "universe/Testing/Odishi/Aoengrbb", "name": "Aoengrbb", "env": "Lava"}
+{"url": "universe/Testing/Odishi/Ieade", "name": "Ieade", "env": "Lava"}
+{"url": "universe/Testing/Odishi/Ynnads", "name": "Ynnads", "env": "Dry"}
+{"url": "universe/Testing/Odishi/Lyerbes", "name": "Lyerbes", "env": "Islands"}
+{"url": "universe/Testing/Odishi/Crnt", "name": "Crnt", "env": "Dry"}
+{"url": "universe/Testing/Odishi/Gpbargic", "name": "Gpbargic", "env": "Gas"}
+{"url": "universe/Testing/Odishi/Kea", "name": "Kea", "env": "No atmosphere"}
+{"url": "universe/Testing/Odishi/Oiidl", "name": "Oiidl", "env": "No atmosphere"}
+{"url": "universe/Testing/Odishi/Ear", "name": "Ear", "env": "Ice"}
+{"url": "universe/Testing/Odishi/Ltrswhha", "name": "Ltrswhha", "env": "Gas"}
+{"url": "universe/Testing/Odishi/Fue", "name": "Fue", "env": "Gas"}
+{"url": "universe/Testing/Odishi/Faovi", "name": "Faovi", "env": "Gas"}
+{"url": "universe/Testing/Via/Via", "name": "Via", "env": "star"}
+{"url": "universe/Testing/Via/Rlavepado", "name": "Rlavepado", "env": "Lava"}
+{"url": "universe/Testing/Via/Jtesh", "name": "Jtesh", "env": "Lava"}
+{"url": "universe/Testing/Via/Usndoupl", "name": "Usndoupl", "env": "Lava"}
+{"url": "universe/Testing/Via/Fbpe", "name": "Fbpe", "env": "Wet"}
+{"url": "universe/Testing/Via/Yncado", "name": "Yncado", "env": "Gas"}
+{"url": "universe/Testing/Via/Vspl", "name": "Vspl", "env": "Gas"}
+{"url": "universe/Testing/Via/Useend", "name": "Useend", "env": "Gas"}
+{"url": "universe/Testing/Via/Qpers", "name": "Qpers", "env": "Gas"}
+{"url": "universe/Testing/Via/Odavee", "name": "Odavee", "env": "Dry"}
+{"url": "universe/Testing/Via/Cayrg", "name": "Cayrg", "env": "No atmosphere"}
+{"url": "universe/Testing/Via/Weto", "name": "Weto", "env": "No atmosphere"}
+{"url": "universe/Testing/Via/Jurb", "name": "Jurb", "env": "Gas"}
+{"url": "universe/Testing/Via/Mskwst", "name": "Mskwst", "env": "Dry"}
+{"url": "universe/Testing/Via/Ornthi", "name": "Ornthi", "env": "Dry"}
+{"url": "universe/Testing/Dyrstrp/Dyrstrp", "name": "Dyrstrp", "env": "star"}
+{"url": "universe/Testing/Dyrstrp/Yvdi", "name": "Yvdi", "env": "Lava"}
+{"url": "universe/Testing/Dyrstrp/Lsorger", "name": "Lsorger", "env": "Lava"}
+{"url": "universe/Testing/Dyrstrp/Xhad", "name": "Xhad", "env": "Dry"}
+{"url": "universe/Testing/Dyrstrp/Vdarpuent", "name": "Vdarpuent", "env": "Lava"}
+{"url": "universe/Testing/Dyrstrp/Mauthherp", "name": "Mauthherp", "env": "Ice"}
+{"url": "universe/Testing/Dyrstrp/Xoerby", "name": "Xoerby", "env": "No atmosphere"}
+{"url": "universe/Testing/Dyrstrp/Pdnar", "name": "Pdnar", "env": "Dry"}
+{"url": "universe/Testing/Dyrstrp/Jeyave", "name": "Jeyave", "env": "Gas"}
+{"url": "universe/Testing/Dyrstrp/Qp", "name": "Qp", "env": "Gas"}
+{"url": "universe/Testing/Dyrstrp/Ynvor", "name": "Ynvor", "env": "Ice"}
+{"url": "universe/Testing/Dyrstrp/Xrpl", "name": "Xrpl", "env": "Gas"}
+{"url": "universe/Testing/Dyrstrp/Sshhe", "name": "Sshhe", "env": "Ice"}
+{"url": "universe/Testing/Dyrstrp/Wethe", "name": "Wethe", "env": "Gas"}
+{"url": "universe/Testing/Dyrstrp/Iko", "name": "Iko", "env": "Gas"}
+{"url": "universe/Testing/Dyrstrp/Xkh", "name": "Xkh", "env": "Ice"}
+{"url": "universe/Testing/Dyrstrp/Zuent", "name": "Zuent", "env": "Gas"}
+{"url": "universe/Testing/Dyrstrp/Jurog", "name": "Jurog", "env": "Gas"}
+{"url": "universe/Testing/Jeesh/Jeesh I", "name": "Jeesh I", "env": "star"}
+{"url": "universe/Testing/Jeesh/Jeesh II", "name": "Jeesh II", "env": "star"}
+{"url": "universe/Testing/Jeesh/Srplld", "name": "Srplld", "env": "Lava"}
+{"url": "universe/Testing/Jeesh/Zkcan", "name": "Zkcan", "env": "Lava"}
+{"url": "universe/Testing/Jeesh/Bia", "name": "Bia", "env": "Lava"}
+{"url": "universe/Testing/Jeesh/Xaatrsswh", "name": "Xaatrsswh", "env": "No atmosphere"}
+{"url": "universe/Testing/Jeesh/Rayd", "name": "Rayd", "env": "Lava"}
+{"url": "universe/Testing/Jeesh/Laue", "name": "Laue", "env": "Ocean"}
+{"url": "universe/Testing/Jeesh/Xkhe", "name": "Xkhe", "env": "Wet"}
+{"url": "universe/Testing/Jeesh/Qeti", "name": "Qeti", "env": "Islands"}
+{"url": "universe/Testing/Jeesh/Jtes", "name": "Jtes", "env": "Wet"}
+{"url": "universe/Testing/Jeesh/Jeepsee", "name": "Jeepsee", "env": "Gas & rings"}
+{"url": "universe/Testing/Jeesh/Xarg", "name": "Xarg", "env": "Dry"}
+{"url": "universe/Testing/Jeesh/Rrla", "name": "Rrla", "env": "Gas"}
+{"url": "universe/Testing/Jeesh/Ase", "name": "Ase", "env": "Gas"}
+{"url": "universe/Testing/Jeesh/Bvtoyd", "name": "Bvtoyd", "env": "Gas"}
+{"url": "universe/Testing/Fioad/Fioad", "name": "Fioad", "env": "star"}
+{"url": "universe/Testing/Fioad/Nnrbyik", "name": "Nnrbyik", "env": "Lava"}
+{"url": "universe/Testing/Fioad/Isst", "name": "Isst", "env": "No atmosphere"}
+{"url": "universe/Testing/Fioad/Gsserp", "name": "Gsserp", "env": "Ocean"}
+{"url": "universe/Testing/Fioad/Ykna", "name": "Ykna", "env": "Wet"}
+{"url": "universe/Testing/Fioad/Abbyis", "name": "Abbyis", "env": "Ocean"}
+{"url": "universe/Testing/Fioad/Fgbya", "name": "Fgbya", "env": "Ocean"}
+{"url": "universe/Testing/Fioad/Kpse", "name": "Kpse", "env": "Ocean"}
+{"url": "universe/Testing/Fioad/Bido", "name": "Bido", "env": "Islands"}
+{"url": "universe/Testing/Fioad/Aaerbes", "name": "Aaerbes", "env": "Gas"}
+{"url": "universe/Testing/Kshan/Kshan", "name": "Kshan", "env": "star"}
+{"url": "universe/Testing/Kshan/Zttidss", "name": "Zttidss", "env": "Lava"}
+{"url": "universe/Testing/Kshan/Ueeprby", "name": "Ueeprby", "env": "Lava"}
+{"url": "universe/Testing/Kshan/Aobydi", "name": "Aobydi", "env": "Wet"}
+{"url": "universe/Testing/Kshan/Vnshe", "name": "Vnshe", "env": "No atmosphere"}
+{"url": "universe/Testing/Kshan/Foarp", "name": "Foarp", "env": "No atmosphere"}
+{"url": "universe/Testing/Kshan/Nnde", "name": "Nnde", "env": "Gas"}
+{"url": "universe/Testing/Kshan/Grrgh", "name": "Grrgh", "env": "Gas"}
+{"url": "universe/Testing/Kshan/Dergeplan", "name": "Dergeplan", "env": "Gas & rings"}
+{"url": "universe/Testing/Kshan/Lvdswhi", "name": "Lvdswhi", "env": "No atmosphere"}
+{"url": "universe/Testing/Obgoena/Obgoena", "name": "Obgoena", "env": "star"}
+{"url": "universe/Testing/Obgoena/Zueputint", "name": "Zueputint", "env": "Lava"}
+{"url": "universe/Testing/Obgoena/Hitoad", "name": "Hitoad", "env": "Lava"}
+{"url": "universe/Testing/Obgoena/Ihkep", "name": "Ihkep", "env": "Dry"}
+{"url": "universe/Testing/Obgoena/Mdvint", "name": "Mdvint", "env": "Ocean"}
+{"url": "universe/Testing/Obgoena/Ggby", "name": "Ggby", "env": "Ocean"}
+{"url": "universe/Testing/Obgoena/Zns", "name": "Zns", "env": "Islands"}
+{"url": "universe/Testing/Obgoena/Apoad", "name": "Apoad", "env": "No atmosphere"}
+{"url": "universe/Testing/Obgoena/Bdas", "name": "Bdas", "env": "No atmosphere"}
+{"url": "universe/Testing/Obgoena/Tkknadss", "name": "Tkknadss", "env": "Gas"}
+{"url": "universe/Testing/Obgoena/Ndr", "name": "Ndr", "env": "Dry"}
