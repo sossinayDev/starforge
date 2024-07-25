@@ -160,7 +160,7 @@ def colored_noise(width: int, height: int):
             
     return _map
 
-def perlin_noise(width, height, start_frequency: int = 10):
+def perlin_noise(width, height, end_frequency: int = 1):
     _perlin_map = white_noise(int(width / 10), int(height / 10))
     _perlin_map.resize(width, height)
     for i in range(start_frequency):
