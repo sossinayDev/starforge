@@ -1,5 +1,6 @@
 # Starforge
 ***One of the worst sandbox MMOs in existence***
+
 Starforge will be an MMO Sandbox game playing in space. It will consist of many solar systems scattered across different districts of the galaxy. The only rule outside of Galaxentre is: **There are none.**
 
 ## Features
