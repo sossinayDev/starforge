@@ -3,6 +3,13 @@ from PIL import Image
 import os
 from pyperclip import copy
 
+def clamp(val, min, max):
+    if val < min:
+        return min
+    if val > max:
+        return max
+    return val
+
 class map:
     def __init__(self, width, height, colormode: str = "RGB"):
         self.width = width
@@ -24,6 +31,15 @@ class map:
         :param color: A tuple containing the color values. For example RBG.
         :return: None
         """
+        
+        if self.color_mode == "RGB":
+            r = int(clamp(color[0], 0, 255))
+            g = int(clamp(color[1], 0, 255))
+            b = int(clamp(color[2], 0, 255))
+            color = (r, g, b)
+            
+            
+        
         if (x < 0 or x >= self.width)  or  (y < 0 or y >= self.height):
             raise ValueError("The position provided is not on the map.")
         else:
@@ -114,14 +130,22 @@ class map:
                 _data.set_pixel(x,y, (r,g,b))
         
         self.pixels = _data.pixels
-                
+    
+    def modify(self, mod):
+        for x in range(self.width):
+            for y in range(self.height):
+                val1 = self.get_pixel(x,y)[0] + mod
+                val2 = self.get_pixel(x,y)[1] + mod
+                val3 = self.get_pixel(x,y)[2] + mod
+                self.set_pixel(x, y, (val1, val2, val3)) 
+                 
             
         
         
     
 
 
-def white_noise(width: int, height: int):
+def white_noise(width: int, height: int, value_range: tuple = (0,255)):
     
     """
     Generates white noise.
@@ -136,7 +160,7 @@ def white_noise(width: int, height: int):
     
     for y in range(width):
         for x in range(height):
-            _val = random.randint(0,255)
+            _val = random.randint(value_range[0], value_range[1])
             _map.set_pixel(x, y, (_val, _val, _val))
             
     return _map
@@ -160,17 +184,73 @@ def colored_noise(width: int, height: int):
             
     return _map
 
-def perlin_noise(width, height, end_frequency: int = 1):
-    _perlin_map = white_noise(int(width / 10), int(height / 10))
+def perlin_noise(width, height, frequency, contrast: float = 1, lightendarken: int = 0):
+    _perlin_map = white_noise(int(frequency*(width/100)), int(frequency*(height/100)), (100,200))
+    
+    area_size = int(frequency*(_perlin_map.width/75))
+    
+    _perlin_map.modify(lightendarken)
+    
+    _perlin_map.resize(int(width/2), int(height/2))
+    
+    for x in range(_perlin_map.width):
+        for y in range(_perlin_map.height):
+            
+            area_sum = _perlin_map.get_pixel(x, y)[0]
+            pixels_counted = 1
+            
+            for x2 in range(-area_size,area_size+1):
+                for y2 in range(-area_size,area_size+1):
+                    try:
+                        area_sum += _perlin_map.get_pixel(x+x2, y+y2)[0]
+                    except:
+                        pass
+                    else:
+                        pixels_counted += 1
+                        
+            area_sum /= pixels_counted
+            
+            difference = area_sum-150
+            val = 150 + (difference*contrast)
+            
+            col = (val, val, val)
+            _perlin_map.set_pixel(x, y, col)
+    
+    
     _perlin_map.resize(width, height)
-    for i in range(start_frequency):
-        _i = start_frequency - i
-        _perlin_map.combine_with(white_noise(int(width / _i), int(height / _i)), 0)
-    
-    
     return _perlin_map
 
+def perlin_noise_extended(width: int, height: int, octaves: int, persistence: float):
+    _p_n_e = map(width, height)
+    
+    
+    
+    ocpcy = 1
+    
+    frequency_start = 20
+    frequency_end = width
+    diff = frequency_end-frequency_start
+    contrast = 1.85
+    for i in range(octaves):
+        
+        frequency = diff*(i/octaves)
+        frequency += frequency_start
+        
+        print(frequency, ocpcy, contrast)
+        _layer = perlin_noise(width, height, frequency, contrast, (-i)*10)
+        _layer.modify(20)
+        if i == 0:
+            _p_n_e = _layer
+        else:
+            _p_n_e.combine_with(_layer, ocpcy)
+        
+        ocpcy = int(clamp(ocpcy-(1-persistence), 0, 1)*100)/100
+        contrast += 0.5
+    
+    return _p_n_e
 
-pnoise = perlin_noise(100,100)
+
+random.seed("DUMB")
+pnoise = perlin_noise_extended(64,64, 5, 0.8)
 
 pnoise.write_to_file("perlin_noise.png")
