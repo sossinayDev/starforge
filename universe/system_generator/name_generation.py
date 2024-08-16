@@ -81,3 +81,18 @@ def generate_name(lenght: int=_r.randint(3,10), capitalize: bool=False):
         return _name
     else:
         return _name.lower()
+
+def name2(lenght: int = _r.randint(3,10), capitalize: bool=False):
+    _name = _r.choice(all)
+    
+    for e in range(lenght-1):
+        l = _name[-1]
+        if l in vocals:
+            _name += _r.choice(consonants)
+        else:
+            _name += _r.choice(vocals)
+    
+    if capitalize:
+        return _name
+    else:
+        return _name.lower()
