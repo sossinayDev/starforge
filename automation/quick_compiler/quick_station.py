@@ -1,20 +1,20 @@
 # Station orbits
-object = "Idus" 
+object = "Byish" 
 # in system
-system = "Abooga"
+system = "Byish"
 
 # At a distance of
-distance = 100 #default: 50
+distance = 2000 #default: 50
 # And a speed of
-speed = 20 # default: 40
+speed = 15 # default: 40
 # The size of this station is: (%)
-size = 50
+size = 10
 
 # This station is angeled by: (Deg)
-rotation = -5
+rotation = 0
 
 # This stations name is:
-name = "Bilow"
+name = "Motob"
 
 # This station has following facilities:
 facilities = {
@@ -60,7 +60,7 @@ for item in facilities:
 
 s_type = "station"
 if facilities_final == ["refuel"]:
-    s_type = "refueling_station"
+    s_type = "refueling station"
 
 data = {
   "movement": "orbit",
