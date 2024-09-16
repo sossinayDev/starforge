@@ -26,7 +26,8 @@ facilities = {
     "market": False
     
 }
-
+# Additional:
+cost_per_fuel_unit = 5
 
 
 
@@ -77,6 +78,9 @@ data = {
   "texture": texture,
   "type": s_type
 }
+
+if facilities_final == ["refuel"]:
+  data["cost_per_fuel_unit"] = cost_per_fuel_unit
 
 pyperclip.copy(dumps(data))
 print("\n\n\n\n")

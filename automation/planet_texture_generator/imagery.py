@@ -141,25 +141,38 @@ class map:
                 val3 = self.get_pixel(x,y)[2] + mod
                 self.set_pixel(x, y, (val1, val2, val3))
 
+class colormap:
+    def __init__(self):
+        self.colors = {}
+        for i in range(0,256):
+            self.colors[i] = gray(i)
+            
+    def value(self, input_value = int):
+        val = int(input_value)
+        val = clamp(val, 0, 255)
+        return self.colors[val]
+    
+    def gradient(self, val_from, val_to, color_start, color_end):
+        dV = val_from - val_to
+        
+        dR = color_start[0]-color_end[0]
+        dG = color_start[1]-color_end[1]
+        dB = color_start[2]-color_end[2]
+        
+        i=0
+        for val in range(val_from, val_to):
+            self.colors[val] = (color_start[0]+(dR*(i/dV)), color_start[1]+(dG*(i/dV)), color_start[2]+(dB*(i/dV)))
+            i+=1
+
+    def import_gradient(self, colors: dict):
+        prev_key = 0
+        last_color = (0,0,0)
+        for key in colors:
+            self.gradient(prev_key,int(key),last_color,colors[key])
+            last_color = colors[key]
+            prev_key = int(key)
+
 def gray(val):
     return (val, val, val)
 
-def white_noise(w,h):
-    heightmap = map(w,h)
-    for x in range(w):
-        for y in range(h):
-            heightmap.set_pixel(x,y, gray(random.randint(0,255)))
-    return heightmap
 
-def perlin_noise(w,h,octaves):
-    if octaves == 0:
-        return map(w,h)
-    perlinnoise = white_noise(int(w/(octaves)),int(h/(octaves)))
-    for oct in range(0,octaves):
-        perlinnoise.resize(int(w/(octaves-oct)),int(h/(octaves-oct)), True)
-        perlinnoise.combine_with(white_noise(int(w/(octaves-oct)),int(h/(octaves-oct))), (octaves-oct)/octaves)
-    return perlinnoise
-
-print("GENSTART")
-perlin_noise(30,30,4).write_to_file()
-print("GENEND")
